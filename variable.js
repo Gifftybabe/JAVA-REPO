@@ -11,18 +11,10 @@ let w = n + p;
 console.log(w);
 
 
-//Storing as undeclared variables.
-a = 5;
-b = 6;
-c = a + y;
-console.log(c);
-
 
 //Using 'const' keyword
 const price1 = 5;
 const price2 = 6;
 let total = price1 + price2;
-
-
 
 
